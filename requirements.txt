@@ -1,0 +1,15 @@
+
+
+python 3.13
+pip install virtualenv
+pip install tensorflow
+pip install keras
+pip install numpy
+pip install pillow
+pip install matplotlib
+pip install scikit-learn
+pip install flask
+pip install pandas
+pip install opencv-python
+
+pip install -r requirements.txt
